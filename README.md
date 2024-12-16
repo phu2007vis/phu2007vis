@@ -38,7 +38,7 @@
 <a href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 
 <h2>My GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=HoangHa2305&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=phu2007vis&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangHa2305&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 
 
