@@ -1,5 +1,5 @@
 # Hi there, I'm Nguyen Xuan Phuoc👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Student+atPHENIKAA+UNIVERSITY;I+currently+Work+as+a+AI+Researcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=1000&lines=Student+atPHENIKAA+UNIVERSITY;I+currently+siu+uuuu" alt="Typing SVG" /></a>
   
 # About me
 - 🔭 I’m currently Learning Everything 🤣
